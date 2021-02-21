@@ -1,0 +1,15 @@
+{
+  "name": "handlerbyetzy",
+  "version": "1.0.0",
+  "description": "A command handler and event handler with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etzyy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
